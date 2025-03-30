@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProjectManagementApp", "ProjectManagementApp", "{7FDE7239-E9B7-4AB1-82B1-E6FF39F79F9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectManagementApp.Web", "ProjectManagementApp\ProjectManagementApp.Web\ProjectManagementApp.Web.csproj", "{5C42C90D-1616-4047-B5DE-4D6D1F22F23E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C42C90D-1616-4047-B5DE-4D6D1F22F23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C42C90D-1616-4047-B5DE-4D6D1F22F23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C42C90D-1616-4047-B5DE-4D6D1F22F23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C42C90D-1616-4047-B5DE-4D6D1F22F23E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5C42C90D-1616-4047-B5DE-4D6D1F22F23E} = {7FDE7239-E9B7-4AB1-82B1-E6FF39F79F9F}
+	EndGlobalSection
+EndGlobal
